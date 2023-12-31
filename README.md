@@ -7,6 +7,7 @@
 ### Student: Sarah Hastings
 ### ID: G00235562
 
+***
 
 ### Getting started
 This repository contains the project for the Programming for Data Analysis Module Winter 2023:24 https://github.com/Sarahlouhast/Programming-for-Data-Analytics-Project-2
