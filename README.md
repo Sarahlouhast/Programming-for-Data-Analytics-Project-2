@@ -25,3 +25,5 @@ The notebook is called 'project.ipynb' https://github.com/Sarahlouhast/Programmi
 
 ### References
 All references used in this projects are listed at the end of the project.
+
+***
