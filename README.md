@@ -23,6 +23,32 @@ This repository contains the project specifications. For more info about the pro
 
 The notebook is called 'project.ipynb' https://github.com/Sarahlouhast/Programming-for-Data-Analytics-Project-2/blob/main/project.ipynb.
 
+
+
+## running the code
+
+2. install vsc
+
+https://code.visualstudio.com/Download
+
+
+3. clone repos
+
+### Instructions for downloading this repository
+Log on to GitHub and search for user Sarahlouhast, the repository is entitled MLS_Project, https://github.com/Sarahlouhast/Programming-for-Data-Analytics-Project-2. You can chose click on the code button and chose to clone the repository or download as a zip file onto your machine. For further information on how github works video guides are available here https://www.youtube.com/githubguides.
+
+4. open repos in vsc
+
+https://code.visualstudio.com/docs/sourcecontrol/github
+
+## issues
+
+- on windows ... (if having a prob on windows etc)
+
+
+
+
+
 ### References
 All references used in this projects are listed at the end of the project.
 
